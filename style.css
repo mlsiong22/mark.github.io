@@ -26,7 +26,6 @@ a:hover, a:active {
 #Mark{
   border-top-left-radius: 100px;
   border-bottom-right-radius: 100px;
-  margin-left: 600px;
   height: 500px;
   position: relative;
   animation-name: myAnimation;
@@ -51,6 +50,7 @@ a:hover, a:active {
   100% {left:0px; opacity: 1;}
 
 }
+
 
 
 
