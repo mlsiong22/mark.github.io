@@ -1,0 +1,56 @@
+body{
+  background-color: #d9d9d9;
+}
+#Header{
+  text-align: center;
+  background-color: black;
+}
+
+a:link, a:visited {
+  width: 300px;
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+}
+#cent{
+  margin-top: 100px;
+  background-color: gray;
+}
+#Mark{
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  margin-left: 600px;
+  height: 500px;
+  position: relative;
+  animation-name: myAnimation;
+  animation-duration: 2s;
+}
+
+#Gerald{
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  margin-left: 100px;
+  height: 500px;
+  position: relative;
+  animation-name: myAnimation;
+  animation-duration: 2s;
+  border-color: black;
+  border-
+}
+
+
+@keyframes myAnimation {
+  0%   {left:-100px; opacity: 0;}
+  100% {left:0px; opacity: 1;}
+
+}
+
+
+
